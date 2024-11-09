@@ -242,6 +242,18 @@ fungsi ini akan menampilkan semua daftar barang dari yang temurah hingga termaha
 
 fungsi ini akan menampilkan output seperti diatas dan akan kembali ke menu login
 
+@ JSON
+
+## JSON barang
+
+![image](https://github.com/user-attachments/assets/f09a8b4d-4269-467b-88a9-6b12b41f2629)
+
+## JSON user
+
+![image](https://github.com/user-attachments/assets/f30e5fa2-2259-456b-a213-91ef9bc07e95)
+
+## JSON barang sewa
+
 # OUTPUT try except
 
 ![image](https://github.com/user-attachments/assets/17a8f4e8-8635-4b69-ae33-0eb5be6cbb93)
