@@ -1,0 +1,39 @@
+{
+    "produk": [
+        {
+            "ID": 1,
+            "Nama barang": "Tas Carrier Consina Great Slave 60L",
+            "Harga": 25000,
+            "Stok": 10,
+            "status": "tersedia"
+        },
+        {
+            "ID": 2,
+            "Nama barang": "Tenda Consina Magnum 2P",
+            "Harga": 30000,
+            "Stok": 5,
+            "status": "tersedia"
+        },
+        {
+            "ID": 3,
+            "Nama barang": "Sleeping Bag Consina",
+            "Harga": 15000,
+            "Stok": 12,
+            "status": "tersedia"
+        },
+        {
+            "ID": 4,
+            "Nama barang": "Jaket Consina Alpine Jacket",
+            "Harga": 20000,
+            "Stok": 10,
+            "status": "tersedia"
+        },
+        {
+            "ID": 5,
+            "Nama barang": "Kompor portable",
+            "Harga": 25000,
+            "Stok": 5,
+            "status": "tersedia"
+        }
+    ]
+}

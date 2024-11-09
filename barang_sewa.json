@@ -1,0 +1,25 @@
+{
+    "sewa": [
+        {
+            "Nama": "tester123",
+            "ID": 1,
+            "Nama barang": "Tenda",
+            "Harga": 50000,
+            "jumlah": 0,
+            "Lama": 3,
+            "Tgl_sewa": "2024-11-07",
+            "Tgl_kembali": "2024-11-10"
+        },
+        {
+            "Nama": "mamet",
+            "ID": 1,
+            "Nama barang": "Tas Carrier Consina Great Slave 60L",
+            "Harga": 25000,
+            "Jumlah": 0,
+            "Lama": 1,
+            "Tgl_sewa": "2024-11-09",
+            "Tgl_kembali": "2024-11-10",
+            "Jumlah harga": 25000
+        }
+    ]
+}

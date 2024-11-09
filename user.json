@@ -1,0 +1,26 @@
+[
+    {
+        "Nama": "danial",
+        "Password": "danial123",
+        "Saldo": 0,
+        "Role": "admin"
+    },
+    {
+        "Nama": "tester123",
+        "Password": "dadddahhshjjjj",
+        "Saldo": 0,
+        "Role": "user"
+    },
+    {
+        "Nama": "1",
+        "Password": "& C:/Users/user/AppData/Local/Programs/Python/Python312/python.exe \"c:/PA DDP/PA/PA.py\"",
+        "Saldo": 0,
+        "Role": "user"
+    },
+    {
+        "Nama": "mamet",
+        "Password": "12345678",
+        "Saldo": 960000,
+        "Role": "user"
+    }
+]
