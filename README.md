@@ -94,3 +94,96 @@ pada menu ini anda akan disuruh melakukan input username dan password dan kemudi
 
 ### Login user
 
+![image](https://github.com/user-attachments/assets/31e94486-61df-4ab1-838f-da03cfceaee8)
+
+pada menu ini anda akan disuruh melakukan input username dan password dan kemudian akan dicek role yang dimiliki pada akun tersebut jika terpenuhi makan login berhasil dan akan beralih menu user
+
+# Menu admin
+
+![image](https://github.com/user-attachments/assets/90e7210a-adbb-4119-8127-fe5d29c997f2)
+
+pada menu ini terdapat 8 pilihan yang dimana penjelasan nya sebagai berikut
+
+## Pilihan Tambah barang
+
+![image](https://github.com/user-attachments/assets/a6ad47d9-98f9-425f-8e2b-9c0dda0e2069)
+
+pertama akan menampilkan seluruh daftar yang ada
+
+![image](https://github.com/user-attachments/assets/0fed9974-e274-4020-8649-e73547dea760)
+
+kemudian akan input ID, Nama, Harga , dan stok
+
+![image](https://github.com/user-attachments/assets/342976eb-f207-46a8-9d12-e2d046acf0f7)
+
+ketika semua syarat terpenuhi maka akan menampilkan keterangan seperti diatas
+
+## Pilihan menu lihat daftar barang 
+
+![image](https://github.com/user-attachments/assets/eb91645e-a398-488f-a1e9-fddee94bf179)
+
+Fungsi ini akan menampilkan semua barang yang dimiliki
+
+## Pilihan menu Update barang
+
+![image](https://github.com/user-attachments/assets/5290e83f-6f07-487c-a8a1-c0e7937f0a21)
+
+Pertama tama menampilkan seluruh daftar barang yang ada 
+
+![image](https://github.com/user-attachments/assets/24368091-84b4-41fc-a200-f51cb0206fe9)
+
+kemudian akan ada output bahwa barang ditemukan dan melakukan input ganti nama,harga dan stock
+
+![image](https://github.com/user-attachments/assets/736bbe27-bfcf-42b3-955f-4dc5517abae7)
+
+jika kondisi terpenuhi maka akan ada output seperti diatas
+
+## Pilihan hapus barang
+
+![image](https://github.com/user-attachments/assets/0e011b34-f5bb-4c2b-ab59-8ea5245b7b78)
+
+pertama akan menampilkan seluruh barang yang ada 
+
+![image](https://github.com/user-attachments/assets/cd162959-91a1-4800-90d7-95a2e423e9b7)
+
+lalu kemudian akan diminta untuk melakukan input ID barang, namun diatas terjadi kesalahan kodingan
+
+![image](https://github.com/user-attachments/assets/5315d4c3-e38a-4a67-9159-0d895dba7ced)
+
+ketika ID ditemukan maka otomatis barang akan di hapus dan menampilkan output seperti diatas
+
+## Pilihan cari barang
+
+![image](https://github.com/user-attachments/assets/25b84caf-d58b-4161-ad59-f9b6a6edd444)
+
+pada menu ini akan diminta untuk input nama barang yang ingin dicari
+
+![image](https://github.com/user-attachments/assets/4b761084-02fe-498c-9a6e-9745122ab586)
+
+jika ditemukan maka akan ada output seperti diatas
+
+## Pilihan Lihat daftar penyewaan
+
+![image](https://github.com/user-attachments/assets/8a73a70d-bf15-45cd-bab4-988da052bd3a)
+
+Pada fungsi ini akan menampilkan seluruh daftar penyewaan yang ada
+
+## Pilihan mengembalikan barang
+
+![image](https://github.com/user-attachments/assets/9ebb1d21-db48-41b8-9e97-2e2cca83353c)
+
+pada fungsi ini akan diminta menginput nama penyewa dan nama barang yang disewa dan ketika ditemukan maka akan langsung otomatis dikembalikan
+
+## pilihan menu keluar
+
+![image](https://github.com/user-attachments/assets/edc96f63-7847-4a78-8356-3c241907f22f)
+
+ketika memilih menu keluar maka akan ada output seperti diatas dan akan kembali ke menu login
+
+
+
+
+
+
+
+
