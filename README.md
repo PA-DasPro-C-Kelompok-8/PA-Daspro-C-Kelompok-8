@@ -66,3 +66,31 @@ Digunakan untuk menyimpan dan membaca data dalam format JSON, termasuk informasi
 
 ![image](https://github.com/user-attachments/assets/8956b8a0-36f6-47c8-b356-524bdc482eb6)
 
+merupakan penjelasan awal tentang toko kami
+
+## menu mulai
+
+![image](https://github.com/user-attachments/assets/d41e917a-4636-4f47-a8b5-c46d761f57e3)
+
+merupakan menu yang pertama kali muncul saat program dirun yang dimana terdapat sebuah pilihan jika memilih 1 melakukan registrasi dan jika memilih 2 melakukan login
+
+## Registrasi
+
+![image](https://github.com/user-attachments/assets/1a590c18-68be-45c0-a83d-03f599a05ab2)
+
+pertana-tama melakukan input username dan password lalu kemudian menampilkan bahwa registrasi terlah berhasil yang dimana akan langsung berlanjut ke menu login
+
+## Menu login
+
+![image](https://github.com/user-attachments/assets/2c1c3a7d-5cc4-42b4-b041-ac917633f04a)
+
+pada fungsi ini terdapat 2 pilihan login yang dimana pilihan bertama login sebgai admin dan pilihan ke dua login sebagai user
+
+### Login Admin
+
+![image](https://github.com/user-attachments/assets/dddf5337-eb0f-4e4c-bd6e-3dc44c3d2e69)
+
+pada menu ini anda akan disuruh melakukan input username dan password dan kemudian akan dicek role yang dimiliki pada akun tersebut jika terpenuhi makan login berhasil dan akan beralih menu admin
+
+### Login user
+
