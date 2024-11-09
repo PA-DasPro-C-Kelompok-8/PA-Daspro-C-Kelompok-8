@@ -180,10 +180,70 @@ pada fungsi ini akan diminta menginput nama penyewa dan nama barang yang disewa 
 
 ketika memilih menu keluar maka akan ada output seperti diatas dan akan kembali ke menu login
 
+# Menu user
 
 
+![image](https://github.com/user-attachments/assets/8808d2c5-5c94-4ed2-8a45-0a024437636c)
+
+terdapat 7 pilihan pada menu ini yang dimana penjelasan nya sebagai berikut
+
+## Pilihan lihat daftar barang
+
+![image](https://github.com/user-attachments/assets/5765c6d4-ad22-4c85-989c-f75c1a98951d)
+
+pada fungsi ini akan menampilkan semua barang dengan pretty table
+
+## Pilihan sewa barang
+
+![image](https://github.com/user-attachments/assets/4044f779-6bbb-46c8-8119-62ed9dba7f8f)
+
+pertama akan melukan input nama
 
 
+![image](https://github.com/user-attachments/assets/bc8d3644-4d3c-49ac-b2fb-85bc943bdeb0)
 
+Lalu akan menampilkan semua barang dengan pretty table
 
+![image](https://github.com/user-attachments/assets/342c687f-4e2a-4ff5-b57c-58a3c2a248bd)
 
+lalu input ID barang , hari sewa dan jumlah barang yang ingin di sewa
+
+![image](https://github.com/user-attachments/assets/3c0c0d07-8924-413c-8071-93477bcdde9c)
+
+ketika berhasil akan menampilkan truck belanja dan menampilkan sisah saldo
+
+## Pilihan lihat barang sewa
+
+![image](https://github.com/user-attachments/assets/0ca178c6-0ed4-4230-8936-14de53903c20)
+
+pertama akan diminta untuk melakukan input nama user dan selanjutnya akan menampilkan semu barang yang telah di sewa oleh user dengan pretty table
+
+## Pilihan isi saldo
+
+![image](https://github.com/user-attachments/assets/62584427-6a60-4c74-a5e3-3aab126a1c78)
+
+pertama akan disuruh untuk melakukan input nama kemudian akan diminta jumlah saldo yang ingin di isi, dan ketika berhasil akan menampilakn output jumlah saldo yang dimiliki
+
+## pilihan lihat saldo
+
+![image](https://github.com/user-attachments/assets/c75dd127-8965-447c-86fb-8e96790392c9)
+
+pertama akan disuruh untuk melakukan input nama lalu akan menampilkan semua saldo yang dimiliki
+
+## pilihan sorting harga
+
+![image](https://github.com/user-attachments/assets/4aa59450-0bbb-4558-9622-00bacf9aebb3)
+
+fungsi ini akan menampilkan semua daftar barang dari yang temurah hingga termahal
+
+## Pilihan keluar 
+
+![image](https://github.com/user-attachments/assets/4dc8c9e4-c700-4f8d-9502-b9d719d383a1)
+
+fungsi ini akan menampilkan output seperti diatas dan akan kembali ke menu login
+
+# OUTPUT try except
+
+![image](https://github.com/user-attachments/assets/17a8f4e8-8635-4b69-ae33-0eb5be6cbb93)
+
+memberitahu bahwa terjadi kesalahan input ataua anda melakukan keybord entrupt
